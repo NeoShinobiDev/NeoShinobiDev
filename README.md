@@ -5,65 +5,73 @@
 <h1 align="center">Hey, I'm Patrick 👋</h1>
 
 <p align="center">
-  Linux • Open Source • Systems • Web Development • Continuous Learning
+  Linux • Open Source • Systems • Learning by building
 </p>
 
 ---
 
 ## 👨‍💻 About me
 
-I'm passionate about technology and enjoy understanding how things work beneath the surface—not just using software, but learning how it's built.
+I’m into technology in a very hands-on way.
 
-My background is mainly in Linux, operating systems, servers and virtualization. Right now I'm expanding my skills in software and web development while continuing to deepen my understanding of IT as a whole.
+Most of the time I’m not just using systems — I try to understand how they actually work underneath.
 
-I enjoy learning by building real projects, experimenting, and solving problems step by step.
+Over the years I’ve spent a lot of time with Linux, different operating systems, and virtualization setups. I’ve used and experimented with things like Proxmox, KVM, VirtualBox, GNOME Boxes and other hypervisor environments. I’ve also worked across different systems like Linux, BSD and macOS, often just by exploring and figuring things out.
 
----
-
-## 🚀 Current Focus
-
-- 💻 Software Development
-- 🌐 Web Development
-- 🐧 Linux & System Administration
-- 🖥️ Servers & Virtualization
-- ⚙️ System Architecture
+I’d describe myself as a power user who likes to learn by doing, breaking things, and rebuilding them.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 What I’m focusing on right now
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,html,css,js,vscode&theme=dark" />
-</p>
+- Learning software development properly (step by step)
+- Getting more confident with Python and general programming basics
+- Understanding how systems and software connect together
+- Building a clearer structure in how I learn and work
 
-*(More coming as I learn.)*
+---
+
+## 🧠 Tech & tools I’ve worked with
+
+- Linux (multiple distros, daily use & experiments)
+- BSD & macOS
+- Virtualization: Proxmox, KVM, VirtualBox, GNOME Boxes
+- Basic server setups and self-hosting experiments
+- Some exposure to Rust (understanding concepts, not production-level)
+- Python (actively learning)
+
+---
+
+## 🤖 About AI & my learning style
+
+I’ve also spent time experimenting with local AI tools like Ollama and small AI agents.
+
+At the same time, I noticed something important for myself:
+
+I don’t just want to rely on tools like AI to generate code — I want to understand what’s happening behind it.
+
+For me, AI is a tool to support learning, not replace it. I want to be able to read, understand, and write code myself so I can actually work with these tools properly instead of depending on them blindly.
 
 ---
 
 ## ❤️ What I enjoy
 
-- Linux & Open Source
-- Ethical and sustainable technology
 - Understanding systems from the inside
-- Building practical projects
-- Learning something new every day
+- Open source and transparent technology
+- Building small things and improving them over time
+- Learning by experimenting
+- Working across different operating systems and environments
 
 ---
 
-## 📚 Currently learning
+## 📚 Current mindset
 
-I'm currently focusing on becoming a better software developer while continuing to strengthen my Linux and infrastructure knowledge.
+Still figuring things out, but moving towards more structure.
 
-My goal isn't just to write code—it's to understand the complete system behind it.
-
----
-
-## 📫 Connect with me
-
-Feel free to explore my repositories. New projects will appear here as I continue learning and building.
+Less randomness, more understanding.
 
 ---
 
 <p align="center">
-  <i>Still learning. Still building. 🚀</i>
+  <i>Still learning. Still building. Slowly getting better. 🚀</i>
 </p>
