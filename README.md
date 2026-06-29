@@ -2,76 +2,86 @@
   <img src="./img/Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Patrick 👋</h1>
+<h1 align="center">Hey, I'm Patrick</h1>
 
 <p align="center">
-  Linux • Open Source • Systems • Learning by building
+  Linux • Systems • Open Source • Learning by building
 </p>
 
 ---
 
-## 👨‍💻 About me
+## About
 
-I’m into technology in a very hands-on way.
+I usually spend my time inside systems, not just using them.
 
-Most of the time I’m not just using systems — I try to understand how they actually work underneath.
+Linux is my main setup, but I also mess around with BSD and macOS from time to time, just to see how things work differently.
 
-Over the years I’ve spent a lot of time with Linux, different operating systems, and virtualization setups. I’ve used and experimented with things like Proxmox, KVM, VirtualBox, GNOME Boxes and other hypervisor environments. I’ve also worked across different systems like Linux, BSD and macOS, often just by exploring and figuring things out.
+A lot of what I know comes from experimenting with virtualization and infrastructure stuff — mainly Proxmox and KVM, but also VirtualBox and GNOME Boxes when I need them.
 
-I’d describe myself as a power user who likes to learn by doing, breaking things, and rebuilding them.
-
----
-
-## 🚀 What I’m focusing on right now
-
-- Learning software development properly (step by step)
-- Getting more confident with Python and general programming basics
-- Understanding how systems and software connect together
-- Building a clearer structure in how I learn and work
+I’d say I’m a power user slowly moving deeper into software development.
 
 ---
 
-## 🧠 Tech & tools I’ve worked with
+## What I’m focusing on right now
 
-- Linux (multiple distros, daily use & experiments)
-- BSD & macOS
-- Virtualization: Proxmox, KVM, VirtualBox, GNOME Boxes
-- Basic server setups and self-hosting experiments
-- Some exposure to Rust (understanding concepts, not production-level)
-- Python (actively learning)
+- learning programming basics (mostly Python at the moment)
+- getting more comfortable with software development in general
+- trying to understand how code and systems actually connect
+- building more structure into how I learn
 
 ---
 
-## 🤖 About AI & my learning style
+## Tools & setup
 
-I’ve also spent time experimenting with local AI tools like Ollama and small AI agents.
+🧠 Systems I use:
+- Fedora (main OS)
+- Linux in general (daily driver + experiments)
+- BSD / macOS (just for exploring)
 
-At the same time, I noticed something important for myself:
+⚙️ Virtualization / infra:
+- Proxmox (main one)
+- KVM
+- VirtualBox
+- GNOME Boxes
 
-I don’t just want to rely on tools like AI to generate code — I want to understand what’s happening behind it.
+⌨️ Development:
+- Neovim / AstroVim (main editor)
+- Git + terminal workflow
 
-For me, AI is a tool to support learning, not replace it. I want to be able to read, understand, and write code myself so I can actually work with these tools properly instead of depending on them blindly.
+🦀 Languages:
+- Python (learning)
+- Rust (just exploring the ideas, not really using it yet)
 
 ---
 
-## ❤️ What I enjoy
+## AI stuff
 
-- Understanding systems from the inside
-- Open source and transparent technology
-- Building small things and improving them over time
-- Learning by experimenting
-- Working across different operating systems and environments
+I’ve played around with local AI tools like Ollama and some agent setups.
+
+But I realized pretty quickly that I don’t want to rely on AI for writing code.
+
+I’d rather understand things first, and then use AI as a tool to help me, not replace the learning part.
 
 ---
 
-## 📚 Current mindset
+## What I enjoy
 
-Still figuring things out, but moving towards more structure.
+- breaking things and fixing them again
+- figuring out how systems actually work
+- open source stuff
+- learning low-level instead of just using tools
+- working across different systems
 
-Less randomness, more understanding.
+---
+
+## Direction
+
+Still figuring things out, but slowly getting more structured.
+
+Less random experimenting, more understanding what I’m actually doing.
 
 ---
 
 <p align="center">
-  <i>Still learning. Still building. Slowly getting better. 🚀</i>
+  <i>Still learning. Still building.</i>
 </p>
