@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://..." alt="Banner" />
+</p>
 # Hey, I’m Patrick 👋
 
 I’m interested in IT in a broad and practical way, especially Linux, open-source systems, servers, and virtualization.
